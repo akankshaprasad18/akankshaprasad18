@@ -1,5 +1,5 @@
-### Hi there! Myself Akanksha Prasad 👋
-# I'm a student currently studying at IIT Indore driven by the passion of Software Development
+# Hi there! Myself Akanksha Prasad 👋
+### I'm a student currently studying at IIT Indore driven by the passion of Software Development
 # 💫 About Me:
 🔭 I’m currently working on a React Native Project<br><br>👯 I’m looking to collaborate on Open Source Development<br><br>🌱 I’m currently learning NestJS and React Native Development<br><br>📫 How to reach me akankshaprasad184@gmail.com<br><br>⚡ Fun fact I love playing Badminton
 
